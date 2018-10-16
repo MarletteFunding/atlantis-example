@@ -1,4 +1,4 @@
-# atlantis-example
+# atlantis-example ~ test
 A simple terraform project to use with `atlantis testdrive`.
 
 # NOTE
